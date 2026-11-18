@@ -1,0 +1,61 @@
+<svg width="850" height="170" viewBox="0 0 850 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #090d16; }
+    .grid { stroke: #1e293b; stroke-width: 0.6; }
+    .hud-text { font-family: 'Courier New', monospace; font-size: 11px; fill: #38bdf8; letter-spacing: 2px; }
+    .quote-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; fill: #94a3b8; }
+    .node-core { fill: #00f5d4; animation: nodePulse 2.4s infinite ease-in-out; }
+    .node-ring { stroke: #38bdf8; stroke-width: 1.5; fill: none; animation: ringExpand 2.4s infinite ease-out; }
+    .data-line { stroke: #06b6d4; stroke-width: 1.5; stroke-dasharray: 12 18; animation: flowDash 3s linear infinite; }
+    .data-line-rev { stroke: #3b82f6; stroke-width: 1.5; stroke-dasharray: 10 20; animation: flowDashRev 4s linear infinite; }
+    @keyframes nodePulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    @keyframes ringExpand {
+      0% { r: 5; opacity: 0.9; }
+      100% { r: 16; opacity: 0; }
+    }
+    @keyframes flowDash {
+      to { stroke-dashoffset: -60; }
+    }
+    @keyframes flowDashRev {
+      to { stroke-dashoffset: 60; }
+    }
+  </style>
+
+  <!-- Base Card & Subtle Grid -->
+  <rect width="850" height="170" rx="12" class="bg" stroke="#1e293b" stroke-width="1.5"/>
+  <path d="M0 42 H850 M0 85 H850 M0 128 H850" class="grid"/>
+  <path d="M140 0 V170 M280 0 V170 M425 0 V170 M570 0 V170 M710 0 V170" class="grid"/>
+
+  <!-- HUD Corner Brackets -->
+  <path d="M16 32 V16 H32" stroke="#06b6d4" stroke-width="2" fill="none"/>
+  <path d="M834 32 V16 H818" stroke="#06b6d4" stroke-width="2" fill="none"/>
+  <path d="M16 138 V154 H32" stroke="#06b6d4" stroke-width="2" fill="none"/>
+  <path d="M834 138 V154 H818" stroke="#06b6d4" stroke-width="2" fill="none"/>
+
+  <!-- Animated Neural Circuit Paths -->
+  <path d="M 70 55 L 220 35 L 425 65 L 630 35 L 780 55" stroke="#1e293b" stroke-width="1.5" fill="none"/>
+  <path d="M 70 55 L 220 35 L 425 65 L 630 35 L 780 55" class="data-line" fill="none"/>
+
+  <path d="M 110 105 L 290 85 L 425 65 L 560 85 L 740 105" stroke="#1e293b" stroke-width="1.5" fill="none"/>
+  <path d="M 110 105 L 290 85 L 425 65 L 560 85 L 740 105" class="data-line-rev" fill="none"/>
+
+  <!-- Pulsing Neural Nodes -->
+  <circle cx="70" cy="55" r="4" class="node-core"/>
+  <circle cx="220" cy="35" r="4.5" class="node-core"/>
+  <circle cx="425" cy="65" r="5" class="node-core"/>
+  <circle cx="425" cy="65" r="5" class="node-ring"/>
+  <circle cx="630" cy="35" r="4.5" class="node-core"/>
+  <circle cx="780" cy="55" r="4" class="node-core"/>
+
+  <circle cx="110" cy="105" r="3.5" class="node-core"/>
+  <circle cx="290" cy="85" r="4" class="node-core"/>
+  <circle cx="560" cy="85" r="4" class="node-core"/>
+  <circle cx="740" cy="105" r="3.5" class="node-core"/>
+
+  <!-- Terminal Footer Sign-off -->
+  <text x="425" y="132" text-anchor="middle" class="hud-text">// SYSTEM_UPLINK_READY — OPEN FOR AI, ML &amp; FULL-STACK ROLES</text>
+  <text x="425" y="150" text-anchor="middle" class="quote-text">Built with precision by Pranay Dinesh Panakkal • Thrissur, Kerala, India</text>
+</svg>
