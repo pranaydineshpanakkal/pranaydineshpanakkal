@@ -32,8 +32,8 @@
 
 > *"From data pipelines to interactive interfaces, great AI products succeed when precision engineering meets intuitive design."* — **Pranay Dinesh**
 
-- 🎓 **MCA in Generative AI (2025–2027)** — *SRM Institute of Science and Technology*
-- 🎓 **BCA Graduate (2022–2025)** — *Sree Narayana Guru College*
+- 🎓 **MCA in Generative AI (2025–2027)** — *SRM Institute of Science and Technology*[cite: 1]
+- 🎓 **BCA Graduate (2022–2025)** — *Sree Narayana Guru College*[cite: 1]
 - 🏆 **Infosys Campus Recruitment Nomination** — *Specialist Programmer & DSE Track (2026)*
 - 🤖 **IBM Verified Internship Program** — *Shortlisted AI & Cloud Training (2026)*
 
@@ -68,7 +68,7 @@
     <td width="33%" valign="top">
       <h4><code>03</code> // Auto Gallery</h4>
       <p><b><code>HTML / CSS / PHP / MYSQL</code></b></p>
-      <p>Online vehicle shopping system allowing users to purchase vehicles, spare parts, and book vehicle services easily from home.</p>
+      <p>Online vehicle shopping system allowing users to purchase vehicles, spare parts, and book vehicle services easily from home[cite: 1].</p>
     </td>
   </tr>
 </table>
@@ -77,11 +77,20 @@
 
 ### `// VERIFIED CERTIFICATIONS (IBM)`
 
-- 🏅 **Generative AI: Introduction and Applications** — *IBM*
-- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*
-- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*
-- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*
-- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*
+- 🏅 **Generative AI: Introduction and Applications** — *IBM*[cite: 1]
+- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*[cite: 1]
+- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*[cite: 1]
+- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*[cite: 1]
+- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*[cite: 1]
 
-<!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:0f172a&height=110&section=footer" />
+---
+
+<!-- Glowing Snake Motion Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Custom Animated Neural Network Footer Card -->
+<p align="center">
+  <img width="100%" src="./neural-footer.svg" alt="Pranay Dinesh Neural Network Footer" />
+</p>
