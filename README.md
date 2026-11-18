@@ -1,112 +1,86 @@
-<div align="center">
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:06b6d4&height=200&section=header&text=Pranay%20Dinesh%20Panakkal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20in%20Generative%20AI%20%7C%20AI%20%26%20Software%20Developer&descAlignY=60&descSize=16" />
 
-<img src="assets/banner.svg" alt="Pranay Dinesh - Generative AI Specialist" width="100%"/>
+<!-- Live Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=MCA+Student+Specializing+in+Generative+AI+%F0%9F%A7%A0;Blending+Technology+%26+Creativity+Into+Real-World+Apps+%E2%9C%A8;IBM+Certified+in+Generative+AI+%26+Prompt+Engineering+%F0%9F%93%9C;Full-Stack+%26+Machine+Learning+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=MCA+Student+%7C+Generative+AI;Machine+Learning+%26+Python;Building+with+AI+and+Software;IBM+Generative+AI+Certified" alt="Typing SVG"/></a>
+<!-- Social & Contact Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranaydinesh-panakkal-3467a5386" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+  <a href="mailto:pranaydinesh123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <img src="https://img.shields.io/badge/Thrissur%2C%20Kerala%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=06B6D4" />
+</p>
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pranaydineshpanakkal@gmail.com"><img src="https://img.shields.io/badge/Email-0b1236?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
-<img src="https://img.shields.io/badge/Thrissur%2C_India-0b1236?style=for-the-badge&logo=googlemaps&logoColor=8b5cf6"/>
+### 👨‍💻 About Me
+I'm an **MCA student at SRM University, Kattankulathur** specializing in **Generative AI** (2025–2027), with a strong interest in blending technology and creativity to build innovative solutions. Driven by curiosity, adaptive learning, and problem-solving, I enjoy applying theoretical knowledge to real-world software and AI projects.
 
-<img src="assets/divider.svg" width="100%"/>
+- 🎓 **Education:** MCA in Generative AI — *SRMIST, Kattankulathur* | BCA — *Sree Narayana Guru College of Advanced Studies, Nattika*
+- 🌱 **Focus Areas:** Generative AI, Machine Learning, Prompt Engineering, and Full-Stack Web Development
+- 🗣️ **Languages:** English, Malayalam, Tamil, Hindi
+- 📫 **Reach Me:** [pranaydinesh123@gmail.com](mailto:pranaydinesh123@gmail.com)
 
-</div>
+---
 
-## About
+### 🛠️ Tech Stack & Skills
 
-I'm an MCA student at SRMIST specializing in Generative AI, with a strong interest in blending technology and creativity to build innovative solutions. I enjoy problem-solving, adaptive learning, and applying theory to real-world projects, and I'm developing solid expertise in AI and software development.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+</p>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+---
 
-## Tech Stack
+### 🚀 Featured Project
 
-<div align="center">
+#### 🚗 **AUTO GALLERY — Online Vehicle Shopping System**
+> An end-to-end online e-commerce platform enabling users to browse and purchase vehicles, vehicle spare parts, and book vehicle services seamlessly from home.
+- **Tech Used:** HTML, CSS, PHP, MySQL
 
-| | |
-|:--|:--|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-0b1236?style=flat-square&logo=openjdk&logoColor=22d3ee) ![Python](https://img.shields.io/badge/Python-0b1236?style=flat-square&logo=python&logoColor=22d3ee) ![PHP](https://img.shields.io/badge/PHP-0b1236?style=flat-square&logo=php&logoColor=22d3ee) |
-| **AI / ML** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0b1236?style=flat-square&logo=scikitlearn&logoColor=8b5cf6) ![Generative AI](https://img.shields.io/badge/Generative_AI-0b1236?style=flat-square&logo=ibm&logoColor=8b5cf6) |
-| **Web** | ![HTML](https://img.shields.io/badge/HTML5-0b1236?style=flat-square&logo=html5&logoColor=3b82f6) ![CSS](https://img.shields.io/badge/CSS3-0b1236?style=flat-square&logo=css3&logoColor=3b82f6) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-0b1236?style=flat-square&logo=mysql&logoColor=22d3ee) |
+---
 
-</div>
+### 🏆 Certifications (IBM)
+- 🏅 **Generative AI: Introduction and Applications** — *IBM*
+- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*
+- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*
+- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*
+- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+---
 
-## Featured Project
+### 📊 Live GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranaydineshpanakkal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaydineshpanakkal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<table>
-<tr><td>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranaydineshpanakkal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-### AutoGallery - Online Vehicle Shopping System
+---
 
-An online shopping platform that lets users purchase vehicles, vehicle spare parts, and vehicle services easily from home.
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-[**View repository**](https://github.com/YOUR-USERNAME/AutoGallery)
-
-</td></tr>
-</table>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Education and Certifications
-
-<div align="center">
-
-| Qualification | Institution | Period |
-|:--|:--|:--|
-| **MCA in Generative AI** | SRM University, Kattankulathur | Jun 2025 - May 2027 |
-| **Bachelor of Computer Applications** | Sree Narayana Guru College of Advanced Studies, Nattika | Jul 2022 - Apr 2025 |
-
-<br/>
-
-**IBM Generative AI Certifications**
-
-![](https://img.shields.io/badge/Introduction_and_Applications-0b1236?style=flat-square&logo=ibm&logoColor=22d3ee)
-![](https://img.shields.io/badge/Prompt_Engineering_Basics-0b1236?style=flat-square&logo=ibm&logoColor=22d3ee)
-![](https://img.shields.io/badge/Foundation_Models_and_Platforms-0b1236?style=flat-square&logo=ibm&logoColor=22d3ee)
-![](https://img.shields.io/badge/Impact%2C_Considerations%2C_and_Ethical_Issues-0b1236?style=flat-square&logo=ibm&logoColor=22d3ee)
-![](https://img.shields.io/badge/Business_Transformation_and_Career_Growth-0b1236?style=flat-square&logo=ibm&logoColor=22d3ee)
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## Interests and Goals
-
-- Generative AI and its applications in real-world projects
-- Growing expertise in AI and software development
-- Collaborative, curiosity-driven learning
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1236" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1236" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0b1236" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0b1236" alt="Contribution graph" width="100%"/>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<div align="center">
-
-**Open to collaboration** - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Email](mailto:pranaydineshpanakkal@gmail.com)
-
-<sub>Pranay Dinesh - Generative AI Specialist</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=90&section=footer" width="100%"/>
-
-</div>
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:0f172a&height=120&section=footer" />
