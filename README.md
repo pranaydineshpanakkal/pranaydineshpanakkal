@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**pranaydineshpanakkal/pranaydineshpanakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | MCA Student**  
+💻 Passionate about building full-stack web apps, AI tools, and clean user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Libraries:** FastAPI, Streamlit, NLTK
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🌱 Currently Working On
+- Building AI-powered applications and interactive web dashboards
+- Exploring Generative AI and full-stack development
+
+---
+
+### 📫 Connect With Me
+- **Email:** [your-email@example.com]
+- **LinkedIn:** [Add your LinkedIn link here]
