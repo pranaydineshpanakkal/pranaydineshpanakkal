@@ -1,6 +1,6 @@
-<!-- Animated Glitch / Neon Header Banner -->
+<!-- Custom HUD Hero Card (Hosted in Repo) -->
 <p align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=PRANAY%20DINESH%20PANAKKAL&text2=FRAME%20%2F%2F%2001%20%E2%80%94%20MCA%20(GENERATIVE%20AI)%20%7C%20AI%20%26%20FULL-STACK%20DEVELOPER&width=900&height=220" alt="Pranay Dinesh Header" />
+  <img width="100%" src="./hero-card.svg" alt="Pranay Dinesh HUD Hero Card" />
 </p>
 
 <!-- Live Typing Terminal Sub-header -->
@@ -32,8 +32,8 @@
 
 > *"From data pipelines to interactive interfaces, great AI products succeed when precision engineering meets intuitive design."* — **Pranay Dinesh**
 
-- 🎓 **MCA in Generative AI (2025–2027)** — *SRM Institute of Science and Technology*[cite: 1]
-- 🎓 **BCA Graduate (2022–2025)** — *Sree Narayana Guru College*[cite: 1]
+- 🎓 **MCA in Generative AI (2025–2027)** — *SRM Institute of Science and Technology*
+- 🎓 **BCA Graduate (2022–2025)** — *Sree Narayana Guru College*
 - 🏆 **Infosys Campus Recruitment Nomination** — *Specialist Programmer & DSE Track (2026)*
 - 🤖 **IBM Verified Internship Program** — *Shortlisted AI & Cloud Training (2026)*
 
