@@ -1,0 +1,91 @@
+  <svg width="850" height="295" viewBox="0 0 850 295" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #090d16; }
+    .panel { fill: #0d1322; stroke: #1e293b; stroke-width: 1; }
+    .grid { stroke: #1e293b; stroke-width: 0.5; }
+    .hud-tag { font-family: 'Courier New', monospace; font-size: 11px; fill: #38bdf8; letter-spacing: 2px; }
+    .sec-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 20px; font-weight: 800; fill: #f8fafc; letter-spacing: 0.5px; }
+    .accent { fill: #06b6d4; }
+    .quote { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12.5px; font-style: italic; fill: #94a3b8; }
+    .item-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #e2e8f0; }
+    .item-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11.5px; fill: #64748b; }
+    .yr-badge { font-family: 'Courier New', monospace; font-size: 10.5px; font-weight: bold; fill: #00f5d4; }
+    .bar-lbl { font-family: 'Courier New', monospace; font-size: 11.5px; fill: #cbd5e1; }
+    .bar-pct { font-family: 'Courier New', monospace; font-size: 11.5px; font-weight: bold; fill: #38bdf8; }
+    .bar-track { fill: #1e293b; }
+    .bar-fill-1 { fill: #06b6d4; animation: loadBar1 1.6s ease-out forwards; }
+    .bar-fill-2 { fill: #38bdf8; animation: loadBar2 1.8s ease-out forwards; }
+    .bar-fill-3 { fill: #00f5d4; animation: loadBar3 2.0s ease-out forwards; }
+    .bar-fill-4 { fill: #3b82f6; animation: loadBar4 2.2s ease-out forwards; }
+    .pulse { animation: pulseDot 2s infinite ease-in-out; }
+    @keyframes loadBar1 { from { width: 0px; } to { width: 306px; } }
+    @keyframes loadBar2 { from { width: 0px; } to { width: 289px; } }
+    @keyframes loadBar3 { from { width: 0px; } to { width: 313px; } }
+    @keyframes loadBar4 { from { width: 0px; } to { width: 285px; } }
+    @keyframes pulseDot { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+  </style>
+
+  <!-- Base Frame & Grid -->
+  <rect width="850" height="295" rx="12" class="bg" stroke="#1e293b" stroke-width="1.5"/>
+  <path d="M0 50 H850 M0 100 H850 M0 150 H850 M0 200 H850 M0 250 H850" class="grid"/>
+  <path d="M170 0 V295 M340 0 V295 M510 0 V295 M680 0 V295" class="grid"/>
+
+  <!-- HUD Corners -->
+  <path d="M14 32 V14 H32" stroke="#38bdf8" stroke-width="2" fill="none"/>
+  <path d="M836 32 V14 H818" stroke="#38bdf8" stroke-width="2" fill="none"/>
+  <path d="M14 263 V281 H32" stroke="#38bdf8" stroke-width="2" fill="none"/>
+  <path d="M836 263 V281 H818" stroke="#38bdf8" stroke-width="2" fill="none"/>
+
+  <!-- Top Header & Quote -->
+  <circle cx="32" cy="34" r="4" fill="#00f5d4" class="pulse"/>
+  <text x="44" y="38" class="hud-tag">// ENGINEERING PHILOSOPHY — FROM RAW DATA TO REAL INTELLIGENCE</text>
+  <text x="32" y="62" class="quote">"From data pipelines to interactive interfaces, great AI products succeed when precision engineering meets intuitive design."</text>
+
+  <!-- Left Panel: Academic & Career Milestones -->
+  <rect x="28" y="80" width="388" height="192" rx="8" class="panel"/>
+  <text x="44" y="104" class="hud-tag">01 // ACADEMIC &amp; TRACK LOGS</text>
+
+  <text x="44" y="128" class="yr-badge">[2025—2027]</text>
+  <text x="126" y="128" class="item-title">MCA in Generative AI</text>
+  <text x="126" y="144" class="item-sub">SRM Institute of Science &amp; Technology</text>
+
+  <text x="44" y="170" class="yr-badge">[2022—2025]</text>
+  <text x="126" y="170" class="item-title">BCA Graduate</text>
+  <text x="126" y="186" class="item-sub">Sree Narayana Guru College</text>
+
+  <text x="44" y="212" class="yr-badge">[2026_NOM]</text>
+  <text x="126" y="212" class="item-title">Infosys Campus Recruitment</text>
+  <text x="126" y="228" class="item-sub">Specialist Programmer &amp; DSE Track</text>
+
+  <text x="44" y="252" class="yr-badge">[2026_IBM]</text>
+  <text x="126" y="252" class="item-title">IBM Verified Internship</text>
+  <text x="126" y="266" class="item-sub">Shortlisted AI &amp; Cloud Training</text>
+
+  <!-- Right Panel: Animated Proficiency Bars -->
+  <rect x="434" y="80" width="388" height="192" rx="8" class="panel"/>
+  <text x="450" y="104" class="hud-tag">02 // TECHNICAL PROFICIENCY</text>
+
+  <!-- Bar 1 -->
+  <text x="450" y="128" class="bar-lbl">Python &amp; FastAPI</text>
+  <text x="790" y="128" text-anchor="end" class="bar-pct">90%</text>
+  <rect x="450" y="135" width="340" height="6" rx="3" class="bar-track"/>
+  <rect x="450" y="135" width="306" height="6" rx="3" class="bar-fill-1"/>
+
+  <!-- Bar 2 -->
+  <text x="450" y="168" class="bar-lbl">Generative AI &amp; NLP</text>
+  <text x="790" y="168" text-anchor="end" class="bar-pct">85%</text>
+  <rect x="450" y="175" width="340" height="6" rx="3" class="bar-track"/>
+  <rect x="450" y="175" width="289" height="6" rx="3" class="bar-fill-2"/>
+
+  <!-- Bar 3 -->
+  <text x="450" y="208" class="bar-lbl">HTML5, CSS3 &amp; UI Motion</text>
+  <text x="790" y="208" text-anchor="end" class="bar-pct">92%</text>
+  <rect x="450" y="215" width="340" height="6" rx="3" class="bar-track"/>
+  <rect x="450" y="215" width="313" height="6" rx="3" class="bar-fill-3"/>
+
+  <!-- Bar 4 -->
+  <text x="450" y="248" class="bar-lbl">MySQL &amp; SQLite Databases</text>
+  <text x="790" y="248" text-anchor="end" class="bar-pct">84%</text>
+  <rect x="450" y="255" width="340" height="6" rx="3" class="bar-track"/>
+  <rect x="450" y="255" width="285" height="6" rx="3" class="bar-fill-4"/>
+</svg>
