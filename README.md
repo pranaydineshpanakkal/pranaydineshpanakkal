@@ -66,9 +66,9 @@
       <p>Personal finance web app featuring secure authentication, salary tracking, SQLite storage, and multi-year savings projections.</p>
     </td>
     <td width="33%" valign="top">
-      <h4><code>03</code> // Conversational HR Chatbot</h4>
-      <p><b><code>PYTHON / NLTK / STREAMLIT</code></b></p>
-      <p>Intelligent HR assistant integrating tokenization, POS tagging, sentiment detection, slot filling, and database fulfillment.</p>
+      <h4><code>03</code> // Auto Gallery</h4>
+      <p><b><code>HTML / CSS / PHP / MYSQL</code></b></p>
+      <p>Online vehicle shopping system allowing users to purchase vehicles, spare parts, and book vehicle services easily from home.</p>
     </td>
   </tr>
 </table>
