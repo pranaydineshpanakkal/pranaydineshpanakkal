@@ -25,19 +25,10 @@
 
 ---
 
-### `// ENGINEERING PHILOSOPHY`
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
-
-## FROM RAW DATA. TO REAL INTELLIGENCE.
-
-> *"From data pipelines to interactive interfaces, great AI products succeed when precision engineering meets intuitive design."* — **Pranay Dinesh**
-
-- 🎓 **MCA in Generative AI (2025–2027)** — *SRM Institute of Science and Technology*[cite: 1]
-- 🎓 **BCA Graduate (2022–2025)** — *Sree Narayana Guru College*[cite: 1]
-- 🏆 **Infosys Campus Recruitment Nomination** — *Specialist Programmer & DSE Track (2026)*
-- 🤖 **IBM Verified Internship Program** — *Shortlisted AI & Cloud Training (2026)*
-
-<br clear="right"/>
+<!-- Custom HUD Engineering Philosophy & Animated Proficiency Bars -->
+<p align="center">
+  <img width="100%" src="./philosophy-card.svg" alt="Engineering Philosophy & Proficiency" />
+</p>
 
 ---
 
@@ -68,7 +59,7 @@
     <td width="33%" valign="top">
       <h4><code>03</code> // Auto Gallery</h4>
       <p><b><code>HTML / CSS / PHP / MYSQL</code></b></p>
-      <p>Online vehicle shopping system allowing users to purchase vehicles, spare parts, and book vehicle services easily from home[cite: 1].</p>
+      <p>Online vehicle shopping system allowing users to purchase vehicles, spare parts, and book vehicle services easily from home.</p>
     </td>
   </tr>
 </table>
@@ -77,11 +68,11 @@
 
 ### `// VERIFIED CERTIFICATIONS (IBM)`
 
-- 🏅 **Generative AI: Introduction and Applications** — *IBM*[cite: 1]
-- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*[cite: 1]
-- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*[cite: 1]
-- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*[cite: 1]
-- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*[cite: 1]
+- 🏅 **Generative AI: Introduction and Applications** — *IBM*
+- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*
+- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*
+- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*
+- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*
 
 ---
 
