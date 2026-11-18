@@ -75,12 +75,13 @@
 
 ---
 
-### `// LIVE CONTRIBUTION GRAPH`
+### `// VERIFIED CERTIFICATIONS (IBM)`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaydineshpanakkal&bg_color=0D1117&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+- 🏅 **Generative AI: Introduction and Applications** — *IBM*
+- 🏅 **Generative AI: Prompt Engineering Basics** — *IBM*
+- 🏅 **Generative AI: Foundation Models and Platforms** — *IBM*
+- 🏅 **Generative AI: Impact, Considerations, and Ethical Issues** — *IBM*
+- 🏅 **Generative AI: Business Transformation and Career Growth** — *IBM*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:0f172a&height=110&section=footer" />
