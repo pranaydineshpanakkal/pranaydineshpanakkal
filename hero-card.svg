@@ -1,0 +1,62 @@
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #090d16; }
+    .grid { stroke: #1e293b; stroke-width: 0.6; }
+    .hud-tag { font-family: 'Courier New', monospace; font-size: 11px; fill: #38bdf8; letter-spacing: 2px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 34px; font-weight: 800; fill: #f8fafc; letter-spacing: 1px; }
+    .accent { fill: #06b6d4; }
+    .sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; fill: #94a3b8; }
+    .stat-num { font-family: 'Courier New', monospace; font-size: 22px; font-weight: bold; fill: #38bdf8; }
+    .stat-lbl { font-family: 'Courier New', monospace; font-size: 10px; fill: #64748b; letter-spacing: 1px; }
+    .pulse { animation: pulseAnim 2s infinite ease-in-out; }
+    .scanline { animation: scan 4s linear infinite; }
+    @keyframes pulseAnim {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes scan {
+      0% { transform: translateY(0px); opacity: 0.15; }
+      50% { opacity: 0.4; }
+      100% { transform: translateY(250px); opacity: 0.15; }
+    }
+  </style>
+
+  <!-- Base Card & Subtle Grid -->
+  <rect width="850" height="260" rx="12" class="bg" stroke="#1e293b" stroke-width="1.5"/>
+  <path d="M0 40 H850 M0 80 H850 M0 120 H850 M0 160 H850 M0 200 H850 M0 240 H850" class="grid"/>
+  <path d="M100 0 V260 M200 0 V260 M300 0 V260 M400 0 V260 M500 0 V260 M600 0 V260 M700 0 V260 M800 0 V260" class="grid"/>
+
+  <!-- Animated Scanline -->
+  <rect x="0" y="0" width="850" height="2" fill="#06b6d4" class="scanline"/>
+
+  <!-- HUD Corner Brackets -->
+  <path d="M16 36 V16 H36" stroke="#38bdf8" stroke-width="2.5" fill="none"/>
+  <path d="M834 36 V16 H814" stroke="#38bdf8" stroke-width="2.5" fill="none"/>
+  <path d="M16 224 V244 H36" stroke="#38bdf8" stroke-width="2.5" fill="none"/>
+  <path d="M834 224 V244 H814" stroke="#38bdf8" stroke-width="2.5" fill="none"/>
+
+  <!-- Top Status Bar -->
+  <circle cx="38" cy="42" r="4.5" fill="#00f5d4" class="pulse"/>
+  <text x="52" y="46" class="hud-tag">FRAME // 01 — SYSTEM ONLINE // SRM IST</text>
+
+  <!-- Main Name & Subtitle -->
+  <text x="36" y="102" class="title">PRANAY DINESH<tspan class="accent">.</tspan></text>
+  <text x="36" y="130" class="sub">MCA (Generative AI) Student • Building Intelligent AI, NLP &amp; Full-Stack Systems</text>
+
+  <!-- Divider -->
+  <line x1="36" y1="158" x2="814" y2="158" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Bottom HUD Telemetry Counters -->
+  <text x="36" y="195" class="stat-num">03+</text>
+  <text x="36" y="213" class="stat-lbl">FEATURED AI BUILDS</text>
+
+  <line x1="210" y1="175" x2="210" y2="225" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="240" y="195" class="stat-num">INFOSYS &amp; IBM</text>
+  <text x="240" y="213" class="stat-lbl">VERIFIED TRACKS (2026)</text>
+
+  <line x1="470" y1="175" x2="470" y2="225" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="500" y="195" class="stat-num">2027</text>
+  <text x="500" y="213" class="stat-lbl">MCA GRADUATION // KERALA, IN</text>
+</svg>
